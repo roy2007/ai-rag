@@ -49,10 +49,10 @@
 
 ## POSTman 测试
   - 正例
-    ![alt text](find_lisi_email.png)
+    ![alt text](image/find_lisi_email.png)
   - 反例1
-    ![alt text](unknow_wangwu.png)
+    ![alt text](image/unknow_wangwu.png)
   - 反例2
-    ![alt text](unknow_resetpw.png)
+    ![alt text](image/unknow_resetpw.png)
 
 
