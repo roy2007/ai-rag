@@ -1,0 +1,15 @@
+# requirements.txt
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+qdrant-client==1.9.0
+elasticsearch==8.13.0
+sentence-transformers==2.2.2
+transformers==4.38.0
+langchain-core==0.1.40
+unstructured[md]==0.14.0
+python-dotenv==1.0.1
+jieba==0.42.1
+rank-bm25==0.2.2
+dashscope==1.19.0
+numpy==1.26.4
+pandas==2.2.0
